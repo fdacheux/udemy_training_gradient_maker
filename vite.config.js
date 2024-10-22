@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/gradient_maker/",
+  base: "/udemy_training_gradient_maker/",
 });

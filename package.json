@@ -2,7 +2,7 @@
   "name": "gradient-maker",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://fdacheux.github.io/gradient_maker/",
+  "homepage": "https://fdacheux.github.io/udemy_training_gradient_maker/",
   "type": "module",
   "scripts": {
     "dev": "vite",
